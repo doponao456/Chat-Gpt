@@ -1,11 +1,3 @@
-asdasdsadsadPrint(sadsad1212d12"hello World")
-%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&&&&&&""3132121aslsa.sda,,sdads,asa,dm,.sa,.d.manlsdb,md.mw wQ
+Print("hello World")
 
-Holasadasdsad a 
-
- lusacas cSAGasgasfasfasfasdsaomo est
-
-
-as??
-as
-
+Hola lucas como estas??
